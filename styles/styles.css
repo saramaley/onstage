@@ -16,10 +16,11 @@ h2{
   
 }
 
-img {
-    background-repeat:no-repeat;
+#twophones {
+    background-image:
+    url('../images/twophones.png');
     width:50%;
-    align-content: right;
+    align-content: center;
     padding-right: 50px;
     
 }
