@@ -1,17 +1,19 @@
 h1 {
     text-align: left;
-    padding-left: 50px;
+    padding-left: 200px;
     font-size: 110px;
-    font-family: roboto;  
+    font-family: roboto;
+    color:#1DA1FF;
 }
 
 h2{
   font-family: roboto;
   font-size:50px;
   text-align: left;
-  padding-left: 50px;
+  padding-left: 200px;
+  font-style: italic;
+  color:#1DA1FF;
   
-
 }
 
 #twophones{
