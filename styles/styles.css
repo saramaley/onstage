@@ -18,7 +18,9 @@ h2{
 
 #twophones{
     background-repeat:no-repeat;
-    width:auto;
+    width:100%;
+    align-content: right;
+    padding-right: 50px;
     
 }
 
