@@ -2,7 +2,7 @@
     background-image:
     url('../images/georgelucas.jpg');
     background-size:contain;
-    background-repeat: space;
+    background-repeat: no-repeat;
     width:100%;
     margin:0 auto;
     height:400px;
