@@ -5,15 +5,19 @@
     background-repeat: no-repeat;
     width:100%;
     margin:0 auto;
-    height:400px;
+    height:800px;
+    background-position: center;
     
 }
 h1 {
     text-align: center;
-    text-emphasis-color: darkgoldenrod;
-    word-spacing: inherit;
     font-size: 180px;
     font-family: rockwell;
 
+    
+}
+
+p {
+    text-align: center; 
     
 }
