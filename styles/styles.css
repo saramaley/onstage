@@ -8,3 +8,12 @@
     height:400px;
     
 }
+h1 {
+    text-align: center;
+    text-emphasis-color: darkgoldenrod;
+    word-spacing: inherit;
+    font-size: 180px;
+    font-family: rockwell;
+
+    
+}
