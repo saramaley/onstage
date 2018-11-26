@@ -16,6 +16,12 @@ h2{
   
 }
 
+.rectangle {
+    height=50px;
+    width=100px;
+    background-color:#1DA1FF;
+}
+                
 #twophones {
     background-image:
     url('../images/twophones.png');
