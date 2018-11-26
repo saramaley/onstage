@@ -4,6 +4,7 @@ h1 {
     font-size: 110px;
     font-family: roboto;
     color:#1DA1FF;
+
 }
 
 h2{
@@ -16,15 +17,37 @@ h2{
   
 }
 
+h3 {
+    font-family: roboto;
+    font-size:80px;
+    padding-left:250px;
+}
+
 .rectangle {
     height=50px;
     width=100px;
     background-color:#1DA1FF;
 }
         
+p1 {
+    font-family: roboto;
+    font-size:35px;
+    padding-left:200px;
+    text-align: left;
+}
 
-p {
-    text-align: center;
-    font-size: 60px;
-    
+
+
+p2 {
+    font-family: roboto;
+    font-size:35px;
+    padding-left:200px;
+    color: #1DA1FF;
+    text-align: left;
+}
+#applebutton {
+    align-content: center;
+}
+#googlebutton {
+    align-content: center;
 }
