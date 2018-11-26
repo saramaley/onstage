@@ -21,15 +21,7 @@ h2{
     width=100px;
     background-color:#1DA1FF;
 }
-                
-#twophones {
-    background-image:
-    url('../images/twophones.png');
-    width:50%;
-    align-content: center;
-    padding-right: 50px;
-    
-}
+        
 
 p {
     text-align: center;
