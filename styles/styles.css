@@ -22,7 +22,7 @@ h2{
 h3 {
     font-family: roboto;
     font-size:80px;
-    padding-left:250px;
+    padding-left:200px;
     color:#FFFFFF;
     text-align:left;
 }
@@ -30,9 +30,10 @@ h3 {
 h4 {
     font-family: roboto;
     font-size:80px;
-    padding-right:250px;
+    padding-right:200px;
     color:#1DA1FF;
     text-align: right;
+    padding-bottom: 0px;
 
 }
 
@@ -44,19 +45,16 @@ section1 {
     display:block;
     background-color:#1DA1FF;
     padding-bottom: 300px;
-    padding-top:300px;
+    padding-top:150px;
     
 }
 
 section2 {
     display:block;
     padding-bottom: 300px;
-    padding-top:300px;
+    padding-top:25px;
 }
 
-section3 {
-    align-content: center;
-}
 
 .rectangle {
     height=50px;
@@ -67,24 +65,26 @@ section3 {
 p1 {
     font-family: roboto;
     font-size:35px;
-    padding-left:250px;
+    padding-left:200px;
     text-align: left;
     color:#FFFFFF;
+    float:left;
 }
 
 p2 {
     font-family: roboto;
     font-size:35px;
-    padding-right:250px;
+    padding-right:200px;
     padding-left:800px;
     color: #1DA1FF;
     text-align: right;
+    float:right;
 }
 
 small {
     font-family: roboto;
     text-align: center;
-    color: #1DA1FF;
+    color: #FFFFFF;
 }
 
 footer {
@@ -92,4 +92,5 @@ footer {
     align-content: center;
     padding-top:50px;
     padding-bottom:30px;
+    background-color:#1DA1FF;
 }
