@@ -53,13 +53,14 @@ section1 {
     background-color:#1DA1FF;
     padding-bottom: 300px;
     padding-top:180px;
-    
+    margin:auto;
 }
 
 section2 {
     display:block;
     padding-bottom: 300px;
     padding-top:25px;
+    margin:auto;
 }
 
 section3 {
@@ -76,11 +77,25 @@ section4 {
     margin-top: 0 inherit;
 }
 
+section5 {
+    display: block;
+    float:inherit;
+    padding-right: 200px;
+}
 
-.rectangle {
+section6 {
+    display: block;
+    float:inherit;
+    padding-left;200px;
+}
+
+
+#rectangle {
     height=50px;
     width=100px;
     background-color:#1DA1FF;
+    float: inherit;
+    padding-left:200px
 }
         
 p1 {
@@ -91,7 +106,7 @@ p1 {
     color:#FFFFFF;
     float:left;
     margin-top: 0 auto;
-    margin: auto;
+    margin: 0 auto;
 }
 
 p2 {
@@ -103,7 +118,7 @@ p2 {
     text-align: right;
     float:right;
     margin-top: 0 auto;
-    margin: auto;
+    margin: 0 auto;
 }
 
 div1 {
