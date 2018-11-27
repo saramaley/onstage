@@ -80,3 +80,16 @@ p2 {
     color: #1DA1FF;
     text-align: right;
 }
+
+small {
+    font-family: roboto;
+    text-align: center;
+    color: #1DA1FF;
+}
+
+footer {
+    text-align:center;
+    align-content: center;
+    padding-top:50px;
+    padding-bottom:30px;
+}
